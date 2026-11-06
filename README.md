@@ -1,7 +1,7 @@
 # SF_Bike_Share_Analytics_Final_Project
 Power BI | Анализ 1,95 млн поездок велопроката Сан-Франциско (2013–2018): временные тренды, география, пользователи, качество данных и бизнес-выводы.
 
-📥 Скачать интерактивный дашборд Power BI (.pbix)
+📥 [Скачать интерактивный дашборд Power BI (.pbix)](https://drive.google.com/file/d/1DEzL1GxQ3ZZgTUQRSdUyxKKDD1HRGfMx/view?usp=sharing)
 
 О проекте
 
